@@ -7,7 +7,8 @@ package psojavafx;
 
 /**
  *
- * @author ashwi
+ * @author ashwin
+ * @param <T>
  */
 public class Node<T> {
     private T _x;
